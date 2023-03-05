@@ -1,4 +1,7 @@
 # Github-use
+### Status
+0. "git status" will show whatever has been done till now.
+
 ### Init
 1. "git init" to be done inside the folder jise upload karna hai.
      It basically makes a .git named folder that stores all the past happenings ki aapne kya commit kiya ai,kya add kiya hai, kya delete kiya hai.
